@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1568193611 source:f:\igraphics-master\ft2\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"theme.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938331 f:\igraphics-master\ft2\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d\opengl\include\gl.h
+
+1568193729 f:\igraphics-master\ft2\flaming tire 2d\mainmenu.h
+
+1568167733 f:\igraphics-master\ft2\flaming tire 2d\opp1car.h
+
+1568171385 f:\igraphics-master\ft2\flaming tire 2d\mycar.h
+
+1568167561 f:\igraphics-master\ft2\flaming tire 2d\firsttrack.h
+
+1568165200 f:\igraphics-master\ft2\flaming tire 2d\theme.h
+
+1568171017 f:\igraphics-master\ft2\flaming tire 2d\drag race.h
+
+1567876705 f:\igraphics-master\ft2\flaming tire 2d\sound.h
+
+1568194273 f:\igraphics-master\ft2\flaming tire 2d\keyboard.h
+
+1567442173 f:\igraphics-master\ft2\flaming tire 2d\mouse.h
+
+1568171172 f:\igraphics-master\ft2\flaming tire 2d\savegame.h
+
+1568275249 source:d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"theme.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\opengl\include\gl.h
+
+1568272027 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\mainmenu.h
+
+1568167734 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\opp1car.h
+
+1568272478 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\mycar.h
+
+1568165202 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\theme.h
+
+1568270772 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\drag race.h
+
+1567876706 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\sound.h
+
+1568275593 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\firsttrack.h
+
+1568171174 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\savegame.h
+
+1568264203 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\keyboard.h
+
+1568259180 d:\codes\igraphics\flaming tire 2d v-2.01\flaming tire 2d\mouse.h
+
+1568388707 source:f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\opengl\include\gl.h
+
+1568388986 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\mainmenu.h
+
+1568167734 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\opp1car.h
+
+1568379651 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\mycar.h
+
+1568165202 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\theme.h
+
+1568381961 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\drag race.h
+
+1568382618 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\sound.h
+
+1568384039 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\firsttrack.h
+
+1568384497 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\savegame.h
+
+1568388645 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\keyboard.h
+
+1568381747 f:\igraphics-master\ft2\flaming tire 2d v2.02\flaming tire 2d\mouse.h
+
+1568394624 source:d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\opengl\include\gl.h
+
+1568398524 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\mainmenu.h
+
+1568167734 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\opp1car.h
+
+1568396545 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\mycar.h
+
+1568397150 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\drag race.h
+
+1568382620 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\sound.h
+
+1568391991 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\firsttrack.h
+
+1568384498 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\savegame.h
+
+1568389142 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\keyboard.h
+
+1568381748 d:\codes\igraphics\flaming tire 2d v2.04\flaming tire 2d\mouse.h
+
+1568423331 source:c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\opengl\include\gl.h
+
+1568423427 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\mainmenu.h
+
+1568167734 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\opp1car.h
+
+1568429178 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\mycar.h
+
+1568434004 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\drag race.h
+
+1568382620 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\sound.h
+
+1568430253 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\firsttrack.h
+
+1568401096 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\savegame.h
+
+1568430150 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\keyboard.h
+
+1568400790 c:\users\erfan\desktop\flaming tire 2d v2.04\flaming tire 2d\mouse.h
+
+1568436684 source:h:\flaming tire 2d v2.04\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 h:\flaming tire 2d v2.04\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 h:\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 h:\flaming tire 2d v2.04\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 h:\flaming tire 2d v2.04\flaming tire 2d\opengl\include\gl.h
+
+1568435984 h:\flaming tire 2d v2.04\flaming tire 2d\mainmenu.h
+
+1568167734 h:\flaming tire 2d v2.04\flaming tire 2d\opp1car.h
+
+1568429178 h:\flaming tire 2d v2.04\flaming tire 2d\mycar.h
+
+1568434299 h:\flaming tire 2d v2.04\flaming tire 2d\drag race.h
+
+1568382620 h:\flaming tire 2d v2.04\flaming tire 2d\sound.h
+
+1568436212 h:\flaming tire 2d v2.04\flaming tire 2d\firsttrack.h
+
+1568401096 h:\flaming tire 2d v2.04\flaming tire 2d\savegame.h
+
+1568430150 h:\flaming tire 2d v2.04\flaming tire 2d\keyboard.h
+
+1568400790 h:\flaming tire 2d v2.04\flaming tire 2d\mouse.h
+
+1568436684 source:d:\codes\igraphics\flaming tire 2d\untitled1.cpp
+	"iGraphics.h"
+	"gl.h"
+	<windows.h>
+	<iostream>
+	<commdlg.h>
+	<time.h>
+	"mainmenu.h"
+	"opp1car.h"
+	"mycar.h"
+	"Drag Race.h"
+	"sound.h"
+	"firsttrack.h"
+	"savegame.h"
+	"keyboard.h"
+	"mouse.h"
+
+1567938332 d:\codes\igraphics\flaming tire 2d\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562641676 d:\codes\igraphics\flaming tire 2d\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562641676 d:\codes\igraphics\flaming tire 2d\opengl\include\gl.h
+
+1568435984 d:\codes\igraphics\flaming tire 2d\mainmenu.h
+
+1568167734 d:\codes\igraphics\flaming tire 2d\opp1car.h
+
+1568429178 d:\codes\igraphics\flaming tire 2d\mycar.h
+
+1568434299 d:\codes\igraphics\flaming tire 2d\drag race.h
+
+1568382620 d:\codes\igraphics\flaming tire 2d\sound.h
+
+1568436212 d:\codes\igraphics\flaming tire 2d\firsttrack.h
+
+1568401096 d:\codes\igraphics\flaming tire 2d\savegame.h
+
+1568430150 d:\codes\igraphics\flaming tire 2d\keyboard.h
+
+1568400790 d:\codes\igraphics\flaming tire 2d\mouse.h
+
