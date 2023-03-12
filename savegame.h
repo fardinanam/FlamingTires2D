@@ -1,4 +1,4 @@
-void savenormalgame(){
+void savenormalgame () {
     FILE *fp;
     fp=fopen("Data\\savegame.txt","w");
     fprintf(fp,"1\n");
